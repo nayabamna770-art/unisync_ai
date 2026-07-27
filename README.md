@@ -3,15 +3,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel] [unisync-ai-beta.vercel.app]
 
 > **UniSync AI** is an intelligent academic matchmaking and project planning dashboard designed for university students (such as at UOG) looking for compatible Final Year Project (FYP) partners and structured project execution strategies.
 
 ---
 
 ## 🔗 Deployed Live App
-* **Public Web Link:** [https://unisync-ai.vercel.app](https://unisync-ai.vercel.app) *(Replace with your live Vercel link once deployed)*
-
+* **Public Web Link:** [unisync-ai-beta.vercel.app]
 ---
 
 ## 🎯 Real Problem Addressed
